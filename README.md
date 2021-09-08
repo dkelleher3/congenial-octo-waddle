@@ -1,1 +1,1 @@
-# dkelleher-MATH421-A
+# MATH421 - Statistical Analysis With R - Declan Kelleher
