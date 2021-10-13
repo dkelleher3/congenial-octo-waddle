@@ -3,3 +3,4 @@
 [Click here to my Assignment 3](assignment3.html) <br>
 [Click here to my Assignment 4](assignment4.html) <br>
 [Click here to my Assignment 5](assignment5.html) <br>
+[Click here to my Assignment 6](assignment6.html) <br>
