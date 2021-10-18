@@ -4,3 +4,5 @@
 [Click here to my Assignment 4](assignment4.html) <br>
 [Click here to my Assignment 5](assignment5.html) <br>
 [Click here to my Assignment 6](assignment6.html) <br>
+[Click here to my Assignment 7](assignment7.html) <br>
+[Link to the plot](1.png) <br>
