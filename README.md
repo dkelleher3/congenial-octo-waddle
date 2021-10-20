@@ -6,3 +6,5 @@
 [Click here to my Assignment 6](assignment6.html) <br>
 [Click here to my Assignment 7](assignment7.html) <br>
 [Link to a plot from Assignment 7](1.png) <br>
+[Click here to my Assignment 8](assignment8.html) <br>
+[Click here to my Assignment 9](assignment9.html) <br>
