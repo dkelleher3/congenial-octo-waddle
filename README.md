@@ -8,3 +8,4 @@
 [Link to a plot from Assignment 7](1.png) <br>
 [Click here to my Assignment 8](assignment8.html) <br>
 [Click here to my Assignment 9](assignment9.html) <br>
+[Click here to my Assignment 10](assignment10.html) <br>
