@@ -9,3 +9,5 @@
 [Click here to my Assignment 8](assignment8.html) <br>
 [Click here to my Assignment 9](assignment9.html) <br>
 [Click here to my Assignment 10](assignment10.html) <br>
+[Click here to my Assignment 11](assignment11.html) <br>
+[Click here to my Assignment 12](assignment12.html) <br>
